@@ -1,0 +1,12 @@
+.footer {
+    background-color: tomato;
+    padding: 6px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    color: white;
+    margin: 0px;
+}
