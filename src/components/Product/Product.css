@@ -108,14 +108,14 @@ button a {
 /* Media Queries */
 @media only screen and (max-width: 600px) {
     .card {
-        width: 120px;
+        width: 48%;
         border-radius: 6px;
-        height: 220px;
+        height: 260px;
     }
 
     .card img {
         /* width: 100%; */
-        height: 100px;
+        height: 180px;
         object-fit: cover;
         object-position: center;
     }
